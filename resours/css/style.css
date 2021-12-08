@@ -1,0 +1,462 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+header{
+    width: 100%;
+    height: 100px;
+    background-color: rgb(6, 5, 112);
+}
+.hed{
+    position: absolute;
+    top:2%;
+    left: 3%;
+    color: yellow;
+    font-size: 40px;
+}.main{
+    position: relative;
+    width: 100%;
+    height: 700px;
+}.box{
+    position: absolute;
+    width: 25%;
+    height: 500px;
+    top: 12%;
+    left: 55%;
+    background-color: rgba(63, 63, 211, 0.2);
+    
+    
+}
+.b1{
+    text-align: center;
+    font-size: 250%;
+    margin-top: 7%;
+    color: rgb(18, 18, 121);
+}
+.b2{
+    text-align: left;
+    margin-left: 3%;
+    margin-top: 23%;
+    color: rgb(18, 18, 121);
+}
+.btn{
+    padding: 5px 20px;
+    border:none;
+    background-color:yellow;
+    font-weight: 200;
+    margin-top: 25%;
+    
+}
+.b3{
+    position: absolute;
+    width: 28%;
+    height: 3%;
+    background-color: yellow;
+    top: 80%;
+    left: 25%;
+    z-index: 150;
+    
+}
+
+.img{
+    position: absolute;
+    width: 30%;
+    height: 65%; 
+    top: 24%;
+    left: 30%;
+    z-index: 100;
+
+}
+.content {
+    position: absolute;
+    top: 30%;
+    left: 58%;
+    z-index: 200;
+}
+.img1{
+    position: absolute;
+    width: 25%;
+    height: 50%;
+    top: 45%;
+    left: 25%;
+    background-image: url(../img/BotanicaliPhoneWallpaper7.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+}.b4{
+    position: absolute;
+    top: 510px;
+    left: 150px;
+}
+.text{
+    position: relative;
+    width: 100%;
+    height: 300px;
+}
+.t{
+    position: absolute;
+    width: 25%;
+    height: 200px;
+    top: 30px;
+    left: 6%;
+    text-align: center;
+    font-size: 20px;
+    
+}.t,i, h1,p{
+    margin-top: 10px;
+}
+i{
+    font-size: 30px;
+    background-color: yellow;
+    padding: 20px;
+    border-radius: 50%;
+}
+.t2{
+    position: absolute;
+    width: 25%;
+    height: 200px;
+    top: 30px;
+    left: 37%;
+    text-align: center;
+    font-size: 20px;
+    
+}.t2,i, h1,p{
+    margin-top: 10px;
+}
+.t3{
+    position: absolute;
+    width: 25%;
+    height: 200px;
+    top: 30px;
+    left: 68%;
+    text-align: center;
+    font-size: 20px;
+    
+}.t3,i, h1,p{
+    margin-top: 10px;
+}.reduce{
+    position: relative;
+    width: 100%;
+    height: 600px;
+}
+.red-text{
+    position: absolute;
+    margin: 6% 13%;
+    font-size: 35px;
+    font-weight: 900;
+    word-spacing:3px ;
+}
+.red{
+    position: absolute;
+    width: 50%;
+    height: 450px;
+    top: 100px;
+    left: 37%;
+}
+.red-tex{
+    position: absolute;
+    margin:10% 13%;
+    font-weight: 200;
+    word-spacing:3px ;
+}.reduce2{
+    position: absolute;
+    width: 100%;
+    height: 300px;
+}
+.red1{
+    position: absolute;
+    width: 30%;
+    height: 500px;
+    left: 25%;
+    bottom: 30px;
+}.tex1{
+    position: absolute;
+    font-size:20px;
+    margin-left: 60%;
+    margin-top: 0%;
+    
+}.red2{
+    position: absolute;
+    width: 20%;
+    height: 60%;
+    background-color: yellow;
+    left: 20%;
+    bottom: 0%;
+}
+.texx{
+    margin: 320px;
+}
+.red3{
+    position: absolute;
+    width: 2%;
+    height: 450px;
+    background-color: yellow;
+    left: 80%;
+    bottom: 50%;
+}
+.reduce3{
+    position: relative;
+    top: 50%;
+    width: 100%;
+    height: 100px;
+}
+.texx1{
+    position: absolute;
+    width: 30%;
+    height: 500px;
+    top: 200px;
+    left: 50%;
+}
+.reduce4{
+    position: relative;
+    width: 100%;
+    height: 1000px;
+    
+}
+.te{
+    position: absolute;
+    width: 35%;
+    height: 350px;
+    background-color: rgb(4, 4, 65);
+    bottom: 100px;
+    left: 10%;
+}
+.tee1{
+    position: absolute;
+    width: 90%;
+    height: 300px;
+    top: 8%;
+    left: 4.5%;
+    border: solid 1px white;
+
+}.te1{
+    position: absolute;
+    color:yellow;
+    margin: 10%;
+    font-size: 250%;
+    font-weight: 900;
+}
+.teee1{
+    position: absolute;
+    color: white;
+    margin-top: 30%;
+    text-align: center;
+    margin-left: 15%;
+}
+.te2{
+    position: absolute;
+    width: 25%;
+    height: 300px;
+    bottom: 30px;
+    left: 60%;
+    margin: 50;
+}
+.tee2{
+    margin: 5% 15%;
+    font-size: 200%;
+    font-weight: 700;
+}
+.teee2{
+    margin: 9% 22%;
+    font-size: 20px;
+    word-spacing: 2px;
+}
+.reduce5{
+    position: relative;
+    width: 100%;
+    height: 770px;
+}
+.para{
+    position: absolute;
+    text-align: right;
+    margin-top: 8%;
+    margin-left: 44%;
+    word-spacing: 2px; 
+    width: auto;      
+}
+.our{
+    position: absolute;
+    margin-top: 2%;
+    margin-left: 82%;
+}
+.ways{
+    position: absolute;
+    font-size: 200%;
+    font-weight: 700;
+    border-bottom:solid 5px yellow;
+    display: inline;
+    margin-top: 4%;
+    margin-left: 71%;
+}
+.yellow{
+    position: absolute;
+    width: 40%;
+    height: 500px;
+    top: 5%;
+    left:15% ;
+    background-color: yellow;
+}
+.pc1{
+    position: absolute;
+    width: 25%;
+    height: 400px;
+    left: 10%;
+    bottom: 0px;
+}
+.pc2{
+    position: absolute;
+    width: 25%;
+    height: 400px;
+    left: 37%;
+    bottom: 0px;
+}
+.waste{
+    position: absolute;
+    width: 20%;
+    height: 150px;
+    bottom: 0px;
+    left: 65%;
+}
+.was{
+    margin: 20px;
+    text-align: center;
+}
+.wast{
+    text-align: center;
+}
+.Use-Energy{
+    position: relative;
+    width: 100%;
+    height: 500px;
+}
+.use{
+    position: absolute;
+    width: 40%;
+    height: 300px;
+    top: 150px;
+    left: 25%;
+}
+.us{
+    font-size: 300%;
+    font-weight: 900;
+    margin:20% 12%;
+    display: inline;
+    border-bottom:solid 5px yellow;
+}
+.su{
+    position: absolute;
+    text-align: left;
+    margin:10% 12%;
+    white-space: 3px;
+    font-size: 120%;
+}
+.sus{
+    position: absolute;
+    width: 30%;
+    height: 300px;
+    left: 50%;
+    top: 50px;
+    background-color: rgb(196, 217, 245);
+}
+.bottom{
+    position: relative;
+    width: 100%;
+    height: 400px;
+    background-color: rgb(4, 4, 56);
+}
+.name{
+    position: absolute;
+    width: 30%;
+    height: 8%;
+    top: 10%;
+    left: 33%;    
+}
+.email{
+    position: absolute;
+    width: 30%;
+    height: 8%;
+    top: 20%;
+    left: 33%; 
+}.msg{
+    position: absolute;
+    width: 30%;
+    height: 32%;
+    top: 30%;
+    left: 33%;
+    text-align: start;   
+}.sub{
+    position: absolute;
+    top: 65%;
+    left: 33%;
+    background-color: yellow;
+    padding: 5px 10px;
+    border: none;
+    font-size: 15px;
+}
+.bo{
+    position: absolute;
+    height: 300px;
+    width: 1%;
+    top: -50%;
+    left: 15%;
+    background-color: yellow;
+}.logo{
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    top: 70%;
+    left: 46%;
+
+}.fab{
+    position: absolute;
+    top: 77%;
+    left:39%;
+    background-color: none;
+    background-color: rgb(4, 4, 56);
+    color: silver;
+}.fa-instagram{
+    position: absolute;
+    top: 77%;
+    left:43%;
+    background-color: none;
+    background-color: rgb(4, 4, 56);
+    color: silver;
+
+}
+.fa-twitter-square{
+    position: absolute;
+    top: 77%;
+    left:47%;
+    background-color: none;
+    background-color: rgb(4, 4, 56);
+    color: silver;   
+}
+.fa-google-plus-square{
+    position: absolute;
+    top: 77%;
+    left:51%;
+    background-color: none;
+    background-color: rgb(4, 4, 56);
+    color: silver;
+}.fa-linkedin-in{
+    position: absolute;
+    top: 77%;
+    left:55%;
+    background-color: none;
+    background-color: rgb(4, 4, 56);
+    color: silver;
+}.footer{
+    position: relative;
+    width: 100%;
+    height: 80px;
+    background-color: rgb(41, 40, 40);
+}
+.foot{
+    position: absolute;
+    color: white;
+    margin-top: 40px;
+    margin-left: 38%;
+    display: inline;
+    
+}
